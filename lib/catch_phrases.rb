@@ -11,4 +11,8 @@ def toadstool
 end
 
 def link 
-  danger = ""
+  danger = "It's Dangerous To Go Alone! Take This."
+  puts danger 
+end
+
+def any_phrase
