@@ -6,5 +6,6 @@ end
 
 
 def toadstool
+  status = 
   puts status
 end
